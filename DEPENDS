@@ -1,0 +1,14 @@
+# for Python >= 3.9, we need at least pyaudio 0.2.12,
+# so the Debian package may not work; use pip
+# deb: python3-pyaudio
+deb: portaudio19-dev
+pip: pyaudio
+
+# these are two different things: the CLI tool and
+# a Python wrapper around it
+deb: sox
+pip: sox
+
+pip: num2words
+deb: python3-nltk
+deb: python3-gi
