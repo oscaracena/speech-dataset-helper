@@ -25,36 +25,10 @@ Here is a screenshot:
 
 # References
 
-* https://arxiv.org/abs/1809.10460v1
-* https://www.deepmind.com/publications/wavenet-a-generative-model-for-raw-audio
-* https://www.deepmind.com/blog/wavenet-a-generative-model-for-raw-audio
-* https://paperswithcode.com/paper/wavenet-a-generative-model-for-raw-audio#code
-
-* TTS:
-    * https://github.com/espnet/espnet
-    * https://espnet.github.io/espnet/notebook/tts_cli.html
-    * https://www.caito.de/2019/01/03/the-m-ailabs-speech-dataset/
-    * https://r9y9.github.io/wavenet_vocoder/
-    * https://keithito.com/LJ-Speech-Dataset/
-
-    * https://github.com/Kyubyong/tacotron
-    * https://github.com/kyubyong/dc_tts
-    * https://github.com/barronalex/Tacotron
-    * https://github.com/begeekmyfriend/tacotron/tree/master
-    * https://github.com/keithito/tacotron
-    * https://github.com/Rayhane-mamah/Tacotron-2
-
-    * https://github.com/NVIDIA/NeMo
-    * https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/stable/tts/intro.html
-    * https://github.com/NVIDIA/NeMo/blob/stable/tutorials/tts/NeMo_TTS_Primer.ipynb
-
-* Sound Analysis / Synthesis
-    * https://medium.com/analytics-vidhya/understanding-the-mel-spectrogram-fca2afa2ce53
-
-* https://www.altexsoft.com/blog/audio-analysis/
+* https://keithito.com/LJ-Speech-Dataset/
 
 
-# RECIPES
+# Other handy recipes
 
 * CLI Denoise: https://unix.stackexchange.com/a/427343/229516
     - cut a noise sample with audacity
